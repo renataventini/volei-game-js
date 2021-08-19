@@ -1,0 +1,19 @@
+{
+  "name": "volei-game",
+  "version": "1.0.0",
+  "description": "Software capturar informações de jogos de voley",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renataventini/volei-game-js.git"
+  },
+  "author": "Renata",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/renataventini/volei-game-js/issues"
+  },
+  "homepage": "https://github.com/renataventini/volei-game-js#readme"
+}
